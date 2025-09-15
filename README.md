@@ -73,6 +73,6 @@ print(tokenizer.decode(outputs[0]))
 
 ---
 
-## ⚠️ Disclaimer
+## References
 
-For **research/demo** only. Not for real medical use.
+[Unsloth documentation](https://docs.unsloth.ai/)
